@@ -3,7 +3,7 @@
 To start the project your have to run command.
 ## `npm install`
 
-To run your project in development you hava to run the command.
+To run your project in development you have to run the command.
 ## `npm start`
 
 
