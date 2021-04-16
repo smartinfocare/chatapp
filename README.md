@@ -1,4 +1,4 @@
-# Getting Started with Reactjs Chatting project with itegration by firabase real time db
+# Getting Started with Reactjs Chatting project with itegration by firebase real time db
 
 To start the project your have to run command.
 ## `npm install`
